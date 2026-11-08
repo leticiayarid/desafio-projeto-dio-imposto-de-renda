@@ -59,6 +59,7 @@ Data
 Categoria
 Valor
 Base de Bancos
+
 <img width="437" height="485" alt="image" src="https://github.com/user-attachments/assets/f4d52675-6773-41f2-8950-84de3eb57b18" />
 
 Inclui uma lista de instituições financeiras para utilização em validações e preenchimento padronizado.
