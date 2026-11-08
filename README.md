@@ -7,6 +7,7 @@ Projeto desenvolvido durante o desafio da DIO com o objetivo de criar uma ferram
 A solução foi criada utilizando recursos nativos do Excel, com foco em praticidade, validações de dados e navegação intuitiva entre as abas.
 
 🎯 Objetivos do Projeto
+
 Centralizar informações para declaração do Imposto de Renda;
 Facilitar o preenchimento dos dados do contribuinte;
 Organizar informações de dependentes;
