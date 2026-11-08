@@ -50,6 +50,7 @@ Valor informado
 Anexar comprovantes
 Controle de patrimônio por banco
 Controle de Receitas
+
 <img width="614" height="485" alt="image" src="https://github.com/user-attachments/assets/226d4ffb-b65e-4baa-9292-841ec423539a" />
 
 
