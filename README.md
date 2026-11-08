@@ -16,6 +16,7 @@ Controlar receitas e entradas financeiras;
 Aplicar validações e melhorias de usabilidade no Excel.
 
 ⚙️ Funcionalidades
+
 Cadastro do Titular
 Permite registrar:
 Nome
