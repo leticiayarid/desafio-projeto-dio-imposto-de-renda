@@ -27,11 +27,13 @@ Telefones
 E-mail
 Informações complementares
 Cadastro de Dependentes
+
 <img width="617" height="487" alt="image" src="https://github.com/user-attachments/assets/d60df79e-e7e2-4647-8280-5b8dd45b4790" />
 
 Foi implementada uma navegação condicional:
 Quando o usuário seleciona SIM no campo "Dependente", uma mensagem é exibida.
 Ao clicar na mensagem, o usuário é direcionado automaticamente para a aba de dependentes.
+
 <img width="776" height="485" alt="image" src="https://github.com/user-attachments/assets/38fedd1e-d950-408d-a1f2-aabbafe8459a" />
 
 Aba exclusiva para cadastro de dependentes, apenas quando aplicavél.
@@ -40,6 +42,7 @@ Nome
 CPF
 Data de nascimento
 Parentesco
+
 <img width="616" height="484" alt="image" src="https://github.com/user-attachments/assets/6e7b4bdc-46f6-4d97-9a3d-a546c3c5a961" />
 
 
